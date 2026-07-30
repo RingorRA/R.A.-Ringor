@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              I am a hardworking and curious student pursuing a Bachelor of Science in Information Technology (BSIT). Over the course of my studies, I take part in various projects that reflect my interest in technology and my goal to turn what I learn into real, practical solutions. I enjoy exploring new ideas, solving problems, and building skills that prepare me to make a positive impact in the IT field.
+              I'm an IT student with a hands-on curiosity for technology and a drive to turn what I learn into real, practical solutions. My work spans front-end development, UI/UX design, and quality assurance, where I enjoy exploring new tools, solving problems, and building projects that reflect both technical skill and genuine care for the people who use them. I bring a strong work ethic, an eagerness to grow, and a genuine drive to contribute meaningfully to any team I'm part of.
             </p>
 
                {/* Quote Section */}
